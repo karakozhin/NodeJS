@@ -1,0 +1,11 @@
+{
+  "name": "modulesapp",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "jasmine-node": "^1.16.2"
+  }
+}
